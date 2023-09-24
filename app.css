@@ -128,3 +128,15 @@ table {
   border-spacing: 0;
 }
 /* CSS Reset */
+
+html {
+  font-family: "Open Sans", sans-serif;
+  box-sizing: border-box;
+}
+body {
+  background-color: #529ffa;
+  display: flex;
+  min-height: 700px;
+  justify-content: center;
+  align-items: center;
+}

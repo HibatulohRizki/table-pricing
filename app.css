@@ -186,3 +186,11 @@ body {
   color: #015ff9;
   font-size: 28px;
 }
+.pricing-button {
+  border: 1px solid #529ffa;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 25px 0;
+  display: inline-block;
+  text-decoration: none;
+}

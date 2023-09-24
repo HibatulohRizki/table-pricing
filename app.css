@@ -151,3 +151,11 @@ body {
   text-align: center;
   text-transform: uppercase;
 }
+.pricing-plan {
+  flex-basis: 100%;
+  border-right: 1px solid #e1f1f1ff;
+}
+.pricing-img {
+  margin-bottom: 25px;
+  max-width: 100%;
+}

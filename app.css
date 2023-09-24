@@ -180,3 +180,9 @@ body {
 .pricing-features-item:last-child {
   border-bottom: 1px solid #e1f1f1ff;
 }
+.pricing-price {
+  display: block;
+  font-weight: 700;
+  color: #015ff9;
+  font-size: 28px;
+}
